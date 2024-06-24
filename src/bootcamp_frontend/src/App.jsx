@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { bootcamp_backend } from 'declarations/bootcamp_backend';
+
 
 function App() {
   const [greeting, setGreeting] = useState('');
